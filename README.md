@@ -1,0 +1,1 @@
+# automacao-analise-dados-gemini
